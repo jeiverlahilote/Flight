@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1702115190 source:d:\tubes_std\flight.cpp
+	<iostream>
+	"flight.h"
+
+1584205420 source:d:\tubes_std\main.cpp
+	<iostream>
+
+1702115172 d:\tubes_std\flight.h
+	<iostream>
+
+1704433957 source:c:\users\acer\downloads\tubes3\tubes3\flight.cpp
+	<iostream>
+	"flight.h"
+
+1704384403 c:\users\acer\downloads\tubes3\tubes3\flight.h
+	<iostream>
+
+1704427089 source:c:\users\acer\downloads\tubes3\tubes3\main.cpp
+	<iostream>
+	"flight.h"
+
